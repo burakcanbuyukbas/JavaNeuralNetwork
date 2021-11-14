@@ -1,5 +1,3 @@
-package com.company;
-
 public interface IMatrixTool {
 
     public IMatrix add(IMatrix M, double x);

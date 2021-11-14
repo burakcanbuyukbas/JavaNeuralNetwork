@@ -1,7 +1,11 @@
-package com.company;
-
 public interface IMatrix {
 
-    public String ToString();
+	void ToString(Matrix matrix);
+
+	void ToString();
+
+	void ToString(Object object);
+
+	
 
 }
